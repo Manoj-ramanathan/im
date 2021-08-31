@@ -44,7 +44,21 @@ brew install zero mq
 stock modules - open client folder - install 
 npm i
 
+brew services start mangodb-community
+forever stopall
 
-  
-  
+permission_tbl
+role_permission_tbl
+label_resource
+//open the file and create file insert table in Robo 3T
+
+open project in visual studio code (stock-module-develop)
+
+open ovc.sh,environmentConfigs.js
+
+path set in V6_PATH,API_PATH,AUTH_PATH
+
+run sh ovc.sh
+
+finally run the localhost:9999
 
