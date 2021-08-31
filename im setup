@@ -1,0 +1,50 @@
+install brew 
+/bin/bash -c "$(curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew services
+
+how to install mongodb in mac
+1.brew tap mongodb/brew
+2.brew install mongodb-community@4.4
+brew install nvm
+nvm instal
+mkdir ~/.nvm
+cd ~/.nvm
+vim ~/.nvm
+
+export NVM_DIR="$HOME/.nvm"
+  [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && . "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+  
+  ctrl+c
+  :wq
+  check for nvm
+  nvm install 4.8.3 - old version og im project
+  
+  nvm install 14 - react version
+  brew update
+  
+  download 
+  1.ovc.sh
+  2.runner.json // move this two file to below zip file
+  3.stock-module-devolop.zip 
+  
+  open the folder name called stock-module-devolop services all folder the in terminal
+  nvm use 4 // select
+  npm i   // install nodemodules in every folder
+
+npm i forever@1 -g
+
+sh ovc.sh
+pigato //save this file stock-modules-services-allfolder-node modules 
+pigato file 
+log check
+
+brew install zero mq
+
+stock modules - open client folder - install 
+npm i
+
+
+  
+  
+
