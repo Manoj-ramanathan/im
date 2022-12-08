@@ -44,13 +44,15 @@ brew install zero mq
 stock modules - open client folder - install 
 npm i
 
-brew services start mangodb-community
+brew services start mangodb-community@4.4
 forever stopall
 
+v4 user role permission import.js (role permission change in BootsrapAdminRole) 
+label_schema.js
 permission_tbl
 role_permission_tbl
 label_resource
-//open the file and create file insert table in Robo 3T
+//open the file and create file insert table in Robo 3T load("") filename
 
 open project in visual studio code (stock-module-develop)
 
@@ -61,4 +63,7 @@ path set in V6_PATH,API_PATH,AUTH_PATH
 run sh ovc.sh
 
 finally run the localhost:9999
+
+Vendors, UOM, Reason Code  - create and after create po
+
 
